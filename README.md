@@ -1,6 +1,6 @@
 # petopia
 
-A new Flutter project.
+A new Flutter project with Firebase.It is an Ecommerce project for ordering pet food.
 
 ## Getting Started
 
